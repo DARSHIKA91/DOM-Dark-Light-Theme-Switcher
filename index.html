@@ -54,11 +54,17 @@
             text-align: justify;
             margin: 10px 10px;
         }
+        .darklight{
+            box-shadow: 0 0 10px #cc0066;
+            margin-left: 28%;
+            padding: 5px;
+        }
     </style>
 </head>
 
 <body id="body" class="theme-light">
     <div>
+        <h1 class="heading">This is Light/Dark mode theme changer</h1>
         <div class="img-box" >
             <h1 class="heading">Select Any ONE of them</h1>
             <img src="dark.png" class="theme-icon " id="btn-dark" onclick="drkMode()" />
@@ -66,7 +72,6 @@
 
         </div>
 
-        <h1 class="heading">This is Light/Dark mode theme changer</h1>
         <p class="discription">
             In today’s digital age, screen time has become an inevitable part of our lives, making the question of light
             mode versus dark mode more important than ever.
@@ -78,6 +83,8 @@
             usually white, and the text is dark. On the contrary, dark mode flips this design,
             offering a dark background, often black or dark gray, with light text.
         </p>
+        <h1 class="heading"><u>Dark VS Light</u></h1>
+        <img src="dark-vs-light.png" class="darklight"/>
     </div>
     <script>
         function drkMode() {

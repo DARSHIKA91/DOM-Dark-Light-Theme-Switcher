@@ -10,7 +10,7 @@
 
 ---
 
-## [Homepage] (https://github.com/DARSHIKA91/DOM-Dark-Light-Theme-Switcher) ![alt text](<Screenshot (103).png>)
+## [Homepage] (https://github.com/DARSHIKA91/DOM-Dark-Light-Theme-Switcher) ![alt text](<Screenshot (106).png>)
 
 # How to Contribute
 

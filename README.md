@@ -11,6 +11,7 @@
 ---
 
 ## [Homepage] (https://github.com/DARSHIKA91/DOM-Dark-Light-Theme-Switcher) ![alt text](<Screenshot (106).png>)
+![alt text](<Screenshot (107).png>)
 
 # How to Contribute
 
